@@ -9,7 +9,7 @@
 
 **Hello! I'm Jagdish (rjjagdish2)**  
 - 🔭 Currently working on **Flutter apps & Laravel projects**  
-- 🌱 Learning **Kotlin & DevOps**  
+- 🌱 Learning **DevOps**  
 - 💡 I love building scalable systems & solving real-world problems with code  
 - 🤝 Open to collaboration on **AI, backend APIs, and mobile apps**  
 
@@ -41,8 +41,10 @@
 
 ---
 
-## 📂 Featured Projects  
+## 📂 Featured Projects
 
+<div style="backdrop-filter: blur(10px); background: rgba(255, 255, 255, 0.1); border-radius: 15px; padding: 20px; margin-bottom: 20px;">
+  
 Here are some projects I’ve worked on:
 
 - [**inventory_management**](https://github.com/rjjagdish2/inventory_management) – Inventory management system using Laravel & Blade.  
@@ -55,6 +57,8 @@ Here are some projects I’ve worked on:
 - [**myml**](https://github.com/rjjagdish2/myml) – Python ML experiments & models.  
 - [**mlmodel**](https://github.com/rjjagdish2/mlmodel) – Machine learning model implementations in Python.  
 
+</div>
+
 ---
 
 ## 🌐 Connect With Me  
@@ -64,4 +68,3 @@ Here are some projects I’ve worked on:
 ---
 
 ✨ _Thanks for visiting my profile!_ 🚀
-

@@ -1,6 +1,6 @@
 <!-- Developer Image Banner -->
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1590608897129-79a39c7f8f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fGRldmVsb3BlcnxlbnwwfHx8fDE2OTY5NjI0MDd8&ixlib=rb-4.0.3&q=80&w=800" alt="Developer" width="100%">
+  <img src="./profile.jpg" alt="Developer Banner" width="100%">
 </p>
 
 <!-- Banner / typing SVG -->

@@ -28,11 +28,11 @@
 
 ## 📊 GitHub Stats  
 
-[![Jagdish’s GitHub stats](https://github-readme-stats.vercel.app/api?username=rjjagdish2&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=rjjagdish2&show_icons=true&theme=radical)  
+[![Jagdish's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjjagdish2&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=rjjagdish2&show_icons=true&theme=radical)  
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjjagdish2&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=rjjagdish2&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)
 
 ---
 

@@ -1,13 +1,3 @@
-<!-- Developer Image Banner -->
-<p align="center">
-  <img src="https://images.unsplash.com/photo-1590608897129-79a39c7f8f27?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w5MTMyMXwwfDF8c2VhcmNofDF8fGRldmVsb3BlcnxlbnwwfHx8fDE2OTY5NjI0MDd8&ixlib=rb-4.0.3&q=80&w=800" alt="Developer" width="100%">
-</p>
-
-<!-- Banner / typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&size=28&width=600&lines=Hi+there+%F0%9F%91%8B,+I%27m+Jagdish;Backend+%26+Full-Stack+Developer;Flutter+%7C+Laravel+%7C+DevOps+Learner" alt="Typing SVG">
-</p>
-
 ---
 
 ## 👋 About Me

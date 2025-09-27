@@ -1,6 +1,6 @@
 <!-- Developer Image Banner -->
 <p align="center">
-  <img src="./profile.jpg" alt="Developer Banner" width="100%">
+  <img src="./profile.jpg" alt="Developer Banner" width="100px" height="100px">
 </p>
 
 <!-- Banner / typing SVG -->

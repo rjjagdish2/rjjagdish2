@@ -20,7 +20,6 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white)  
 ![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white)  
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  

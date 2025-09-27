@@ -1,12 +1,9 @@
 <!-- Developer Image Banner -->
-<p align="center">
-  <img src="./profile.jpg" alt="Developer Banner" width="250px" height="250px">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <img src="./profile.jpg" alt="Developer Banner" width="150" height="150" style="border-radius: 50%;">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&size=28&width=500&lines=Hi+there+%F0%9F%91%8B,+I%27m+Jagdish;Backend+%26+Full-Stack+Developer;Flutter+%7C+Laravel+%7C+DevOps+Learner" alt="Typing SVG">
 </p>
 
-<!-- Banner / typing SVG -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C9FF&center=true&vCenter=true&size=28&width=600&lines=Hi+there+%F0%9F%91%8B,+I%27m+Jagdish;Backend+%26+Full-Stack+Developer;Flutter+%7C+Laravel+%7C+DevOps+Learner" alt="Typing SVG">
-</p>
 
 ---
 

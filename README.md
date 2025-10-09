@@ -36,7 +36,7 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rjjagdish2&layout=compact&theme=radical)](https://github-readme-stats.vercel.app/api/top-langs/?username=rjjagdish2&layout=compact&theme=radical)  
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=rjjagdish2&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)](https://github-readme-streak-stats.herokuapp.com/?user=rjjagdish2&theme=radical)
 
 
 ---

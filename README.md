@@ -78,13 +78,79 @@
 
 # ⭐ Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjjagdish2&repo=doctor_backend&theme=radical)](https://github.com/rjjagdish2/doctor_backend)
+<table>
+<tr>
+<td width="50%">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjjagdish2&repo=doctorapp&theme=radical)](https://github.com/rjjagdish2/doctorapp)
+### 🏥 Doctor Appointment System
+[![Repo](https://img.shields.io/badge/Backend-doctor__backend-blue?style=flat-square&logo=github)](https://github.com/rjjagdish2/doctor_backend)
+[![Repo](https://img.shields.io/badge/Android-doctorapp-green?style=flat-square&logo=android)](https://github.com/rjjagdish2/doctorapp)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjjagdish2&repo=Fruit_Selling_Web&theme=radical)](https://github.com/rjjagdish2/Fruit_Selling_Web)
+Complete appointment booking system with Laravel backend & Android frontend.
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rjjagdish2&repo=inventory_management&theme=radical)](https://github.com/rjjagdish2/inventory_management)
+**Tech:** Laravel • Android • REST APIs
+
+</td>
+<td width="50%">
+
+### 📦 Inventory Management
+[![Repo](https://img.shields.io/badge/Repo-inventory__management-red?style=flat-square&logo=laravel)](https://github.com/rjjagdish2/inventory_management)
+
+Full-featured inventory management system with Blade templates.
+
+**Tech:** Laravel • MySQL • Blade
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🍎 Fruit Selling Platform
+[![Repo](https://img.shields.io/badge/Repo-Fruit__Selling__Web-yellow?style=flat-square&logo=php)](https://github.com/rjjagdish2/Fruit_Selling_Web)
+
+E-commerce platform for online fruit selling.
+
+**Tech:** PHP • MySQL • JavaScript
+
+</td>
+<td width="50%">
+
+### 🏘️ E-Society Management
+[![Repo](https://img.shields.io/badge/Repo-ESociety-orange?style=flat-square&logo=java)](https://github.com/rjjagdish2/ESociety)
+
+Society records management system built in Java.
+
+**Tech:** Java • Swing • JDBC
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🤖 Machine Learning Projects
+[![Repo](https://img.shields.io/badge/Repo-myml-purple?style=flat-square&logo=python)](https://github.com/rjjagdish2/myml)
+[![Repo](https://img.shields.io/badge/Repo-mlmodel-purple?style=flat-square&logo=python)](https://github.com/rjjagdish2/mlmodel)
+
+ML experiments & model implementations.
+
+**Tech:** Python • TensorFlow • Scikit-learn
+
+</td>
+<td width="50%">
+
+### 📱 Learning Projects
+[![Repo](https://img.shields.io/badge/Repo-Encryptix--Java-teal?style=flat-square&logo=java)](https://github.com/rjjagdish2/Encryptix-Java)
+[![Repo](https://img.shields.io/badge/Repo-Encryptix--Android-teal?style=flat-square&logo=android)](https://github.com/rjjagdish2/Encryptix-Android)
+
+Various learning & practice projects.
+
+**Tech:** Java • Android • Kotlin
+
+</td>
+</tr>
+</table>
 
 ---
 
